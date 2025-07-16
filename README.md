@@ -1,2 +1,2 @@
 # test
-Lalita
+  script: echo "Hello"
